@@ -18,7 +18,7 @@ This speech-to-text app is a web application that allows users to convert text i
 
 ## Demo
 
-[Link to Live Demo](https://prinston.github.io/Birthday_countdown-app/)
+[Link to Live Demo](https://prinston.github.io/Speech-to-text/)
 
 
 ## How to Use
